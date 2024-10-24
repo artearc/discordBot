@@ -1,0 +1,20 @@
+[
+    {
+        "equipo1": "Barcelona",
+        "equipo2": "Bayern",
+        "frase": "'que asco de moro'",
+        "timestamp": "2024-10-24 20:30:39"
+    },
+    {
+        "equipo1": "Barcelona",
+        "equipo2": "Bayern",
+        "frase": "'puto chino de mierda xin xon xin'",
+        "timestamp": "2024-10-24 20:31:06"
+    },
+    {
+        "equipo1": "Bayern",
+        "equipo2": "Barcelona",
+        "frase": "'!!!MONO!!!'",
+        "timestamp": "2024-10-24 20:36:07"
+    }
+]
